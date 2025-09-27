@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm davidzwei</h1>
-<h3 align="center">A NYCU CS Master student</h3>
-
-- 📫 How to reach me **tangcw.cs10@nycu.edu.tw**
 
 <p align="left">
 </p>
